@@ -1,7 +1,7 @@
 {
-    "name": "@dorian-eydoux/pronote-api",
-    "version": "2.3.4",
-    "description": "Pronote 2020/2021 API (Node.JS/TS library, and GraphQL server)",
+    "name": "@gamers-geek/pronote-api",
+    "version": "2.3.5",
+    "description": "Pronote 2022/2023 API (Node.JS/TS library, and GraphQL server) (maintained)",
     "main": "index.js",
     "types": "index.d.ts",
     "type": "commonjs",
@@ -23,7 +23,7 @@
     "author": "Adrien 'Litarvan' Navratil <adrien1975@live.fr>",
     "license": "MIT",
     "repository": {
-        "url": "https://github.com/dorian-eydoux/pronote-api.git",
+        "url": "https://github.com/gamers-geek/pronote-api.git",
         "type": "git"
     },
     "bin": {
